@@ -1,4 +1,4 @@
-capstone-01
+Guided Capstone Projecct
 ==============================
 
 Guided capstone for Springboard DS career track
