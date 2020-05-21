@@ -1,7 +1,7 @@
-Guided Capstone Projecct
+Guided Capstone Project
 ==============================
 
-Guided capstone for Springboard DS career track
+Capstone project for Springboard DS Career Track.
 
 Project Organization
 ------------
